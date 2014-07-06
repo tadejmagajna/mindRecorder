@@ -1,0 +1,2 @@
+java -cp "C:\Program Files\Weka-3-6\weka.jar" weka.classifiers.trees.DecisionStump -t "C:/Users/LaPsaca123/Documents/Visual Studio 2013/Projects/MindMining/Debug/recordings/dali.arff" -T "C:/Users/LaPsaca123/Documents/Visual Studio 2013/Projects/MindMining/Debug/recordings/tmp.arff" -p 0 -o > result.txt
+copy result.txt result2.txt
